@@ -60,7 +60,7 @@ This application implements a comprehensive polling system with the following ke
 
 1. **Clone and setup the project**:
    ```bash
-   git clone 
+   git clone https://github.com/Sattwik13/Realtime_Polling.git
    cd realtime-polling-api
    npm install
    ```
@@ -370,5 +370,4 @@ npm run db:migrate
 
 ---
 
-## Built with `©Sattwik `#   R e a l t i m e _ P o l l i n g  
- 
+## Built with `©Sattwik `
